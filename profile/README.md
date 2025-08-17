@@ -1,3 +1,5 @@
+<img width="470" height="342" alt="image" src="https://github.com/user-attachments/assets/cf96ea69-e47a-4536-bb24-352ab7087447" />
+
 <!--
 **Here are some ideas to get you started:**
 🙋‍♀️ A short introduction - what is your organization all about?
